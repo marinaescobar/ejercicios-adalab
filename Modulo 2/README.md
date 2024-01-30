@@ -18,7 +18,7 @@ Compilación de los ejercicios de programación del curso de Data Analytics en A
 
 ## Alumna
 
-- [@marinaescobar](https://www.github.com/octokatherine)
+- [@marinaescobar](https://www.github.com/marinaescobar)
 
 
 ## 🔗 RRSS
