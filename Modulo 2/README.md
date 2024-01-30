@@ -4,14 +4,14 @@ Compilación de los ejercicios de programación del curso de Data Analytics en A
 
 ## Temas
 
-    1. Variables
-    2. Listas y tuplas
-    3. Diccionarios y sets
-    4. Sentencias de control
-    5. Sentencias de control (bucles for)
-    6. Funciones
-    7. Clases
-    8. Expresiones regulares
+1. Variables
+2. Listas y tuplas
+3. Diccionarios y sets
+4. Sentencias de control
+5. Sentencias de control (bucles for)
+6. Funciones
+7. Clases
+8. Expresiones regulares
 
 
 
