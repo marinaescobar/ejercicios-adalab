@@ -13,11 +13,12 @@ Compilación de los ejercicios de programación del curso de Data Analytics en A
 7. Clases
 8. Expresiones regulares
 
-
+## Tecnologías empleadas:
+[![Python Version](https://img.shields.io/badge/Python-3.9.7-yellow?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/downloads/release/python-397/) 
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=flat&logo=jupyter&logoColor=white&color=F37626)](https://jupyter.org/)
 
 
 ## Alumna
-
 - [@marinaescobar](https://www.github.com/marinaescobar)
 
 
