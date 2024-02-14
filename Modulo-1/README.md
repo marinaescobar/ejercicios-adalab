@@ -14,8 +14,8 @@ Compilación de los ejercicios de programación del curso de Data Analytics en A
 8. Expresiones regulares
 
 ## Tecnologías empleadas:
-[![Python Version](https://img.shields.io/badge/Python-3.9.7-yellow?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/downloads/release/python-397/) 
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=flat&logo=jupyter&logoColor=white&color=F37626)](https://jupyter.org/)
+![Python](https://img.shields.io/badge/Python-3.9.7-3776AB?style=flat&logo=python&logoColor=%23ffffff&labelColor=%233776AB)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=%23ffffff&labelColor=%23F37626)
 
 
 ## Alumna
