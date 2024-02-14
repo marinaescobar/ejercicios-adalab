@@ -16,5 +16,5 @@ Compilación de los ejercicios de programación del curso de Data Analytics en A
 - [@marinaescobar](https://www.github.com/marinaescobar)
 
 
-## 🔗 RRSS
+## 🌐 Redes
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinaescobarperez/)
