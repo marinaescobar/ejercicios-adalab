@@ -37,7 +37,7 @@ GROUP BY `sales_rep_employee_number`
 HAVING `ClientesUnicos` > 7;
 
 -- Selecciona el número de cada empleado de ventas, así como el numero de clientes distintos que tiene cada uno. Asigna una etiqueta de "AltoRendimiento" a aquellos empleados con mas de 7 clientes distintos
-SELECT `sales_rep_employee_number`, COUNT(DISTINCT(`customer_number`)) AS `ClientesUnicos`,
+SELECT
 CASE 
 	WHEN COUNT(DISTINCT(`customer_number`)) > 7 THEN 'AltoRendimiento'
 	ELSE ''
