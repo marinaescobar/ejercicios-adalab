@@ -23,6 +23,7 @@ Compilación de los ejercicios de programación del curso de Data Analytics en A
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=%23ffffff&labelColor=%23F37626)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&labelColor=%23150458)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=%23ffffff)
+![SQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=%23ffffff&labelColor=%234479A1) 
 
 
 ## Alumna
