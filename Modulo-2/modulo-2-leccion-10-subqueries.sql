@@ -35,4 +35,5 @@ FROM employees AS Em
 WHERE Em.employee_number IN (
 	SELECT sales_rep_employee_number
     FROM customers AS Cu
+    WHERE sales_rep_employee_number IS NOT NULL
 );
